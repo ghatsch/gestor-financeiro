@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+}body, html{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+  background-color: #f8fafc;
+}.topo{
+  font-family: var(--font-orbitron);
+  margin-top: 0 auto;
+  display: block;
+  width: 100vw;
+  height: 12vh;
+  background-color: #1e2a38;
+  color: #f8fafc;
+}li{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}label{
+   margin: 2% auto;
+}.opcao{
+  margin: 1%;
+  width: 3em;
+  height: auto;
+}
