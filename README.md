@@ -1,7 +1,9 @@
 Gestor Financeiro 
+
 Bem-vindo ao meu projeto de Gestor Financeiro! Esse projeto foi desenvolvido como uma solução para gerenciar entradas e saídas financeiras pessoais, com foco em simplicidade, responsividade e dinamismo. Ele foi construído com Next.js 14, React, TypeScript e CSS moderno para garantir uma experiência fluída e organizada.
 
  Funcionalidades
+ 
 Gerenciamento de Entradas e Saídas: Registre suas transações financeiras, categorizadas como fixas ou variáveis.
 
 Resumo Financeiro: Visualize um resumo detalhado das suas entradas e saídas, exibido dinamicamente através de um modal responsivo.
